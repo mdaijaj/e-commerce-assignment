@@ -1,0 +1,35 @@
+.register{
+    margin: auto;
+    width: 200px;
+    height: 250px;
+    background-color: gray;
+}
+
+body{
+    background-color: transparent;
+}
+
+.signDiv{
+    height: auto;
+    width: 420px;
+    /* background-color: gray; */
+    padding: 20px 20px;
+    display: block;
+    margin: auto;
+}
+
+.signDiv img{
+    /* margin-left: -20px; */
+}
+.label{
+    margin-bottom: 20px;
+}
+
+.label p2{
+    color: rgb(245, 35, 70);
+    font-size: 15px;
+}
+
+.form-control{
+    width: 380px;
+}
